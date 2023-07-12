@@ -1,6 +1,14 @@
 # Group Member
 1. Alfikra Muhammad (1836031)
+    - Login / SignUp
+    - Auth
+    - Homeview
+    - Add Course
 2. Robbani Ghozi Fikri (1832765)
+    - Detail Course
+    - QR 
+    - Report
+    - Database
 
 # attendance app
 1. github
